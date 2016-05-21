@@ -17,6 +17,7 @@ namespace WindowsFormsApplication1
 
         public ObjectId _id { get; set; }
         public int f_id { get; set; }
+        public string tag { get; set; }
         public string name { get; set; }
         public string description { get; set; }
         public string filename { get; set; }
